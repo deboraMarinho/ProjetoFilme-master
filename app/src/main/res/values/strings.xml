@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">ProjetoFilme</string>
+    <string name="btnFilme">Filme</string>
+    <string name="imgNovoFilme">Imagem Filme</string>
+    <string name="nomeFilme">Nome Filme</string>
+    <string name="anoLanc">Ano Lançamento</string>
+    <string name="numEpisodio">Número Episódios</string>
+    <string name="imgIconeNome">Icone Nome</string>
+    <string name="iconeAno">Icone Ano Lançamento</string>
+    <string name="iconeEpisodio">Icone Episodio</string>
+    <string name="iconeCategoria">Icone Categoria</string>
+    <string name="salvar">Salvar</string>
+    <string name="excluir">Excluir</string>
+    <string name="empty_not_saved">Preencher Todos os Campos.</string>
+</resources>
